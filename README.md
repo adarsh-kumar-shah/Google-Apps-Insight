@@ -54,7 +54,7 @@ The analysis was conducted in **Python using Google Colab**, and the cleaned dat
 The analysis provides valuable insights into what drives app success on the Google Play Store, helping developers and marketers make data-driven decisions on pricing, design, and user engagement.
 
 ## 👩‍💻 Author
-**Pudota Sathwika**  
+**Adarsh Shah**  
 📘 [GitHub Profile](https://github.com/adarsh-kumar-shah)
 
 
